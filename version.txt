@@ -1,0 +1,2 @@
+public static final double VERSION_NUMBER = 20231001.000000;
+public static final double BINARY_VERSION_NUMBER = 1.0;
