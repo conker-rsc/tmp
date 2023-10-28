@@ -6,7 +6,10 @@
     "rsa_pub_key": "7112866275597968156550007489163685737528267584779959617759901583041864787078477876689003422509099353805015177703670715380710894892460637136582066351659813",
     "rsa_exponent": "65537",
     "servertype": "1",
-    "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%"
+    "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
+    "register_type": "openrsc",
+    "register_url": ""
+    
   },
   {
     "name": "RSC Uranium",
@@ -15,6 +18,9 @@
     "rsa_pub_key": "7112866275597968156550007489163685737528267584779959617759901583041864787078477876689003422509099353805015177703670715380710894892460637136582066351659813",
     "rsa_exponent": "65537",
     "servertype": "1",
-    "hiscores_url": "https://rsc.vet/player/uranium/%USERNAME%"
+    "hiscores_url": "https://rsc.vet/player/uranium/%USERNAME%",
+    "register_type": "openrsc",
+    "register_url": ""
+    
   }  
 ]
