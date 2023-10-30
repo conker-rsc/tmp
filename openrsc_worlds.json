@@ -7,9 +7,7 @@
     "rsa_exponent": "65537",
     "servertype": "1",
     "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
-    "register_type": "openrsc",
-    "register_url": ""
-    
+    "server_extensions": "openrsc"
   },
   {
     "name": "RSC Uranium",
@@ -19,8 +17,6 @@
     "rsa_exponent": "65537",
     "servertype": "1",
     "hiscores_url": "https://rsc.vet/player/uranium/%USERNAME%",
-    "register_type": "openrsc",
-    "register_url": ""
-    
+    "server_extensions": "openrsc"
   }  
 ]
