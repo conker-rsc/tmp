@@ -1,25 +1,24 @@
-{
-  "type": "preservation",
-  "worlds": [
-    {
-      "name": "RSC Preservation",
-      "url": "game.openrsc.com",
-      "port": "43596",
-      "rsa_pub_key": "7112866275597968156550007489163685737528267584779959617759901583041864787078477876689003422509099353805015177703670715380710894892460637136582066351659813",
-      "rsa_exponent": "65537",
-      "servertype": "1",
-      "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
-      "server_extensions": "OpenRSC"
-    },
-    {
-      "name": "RSC Preservation 02",
-      "url": "game.openrsc.com",
-      "port": "43597",
-      "rsa_pub_key": "7112866275597968156550007489163685737528267584779959617759901583041864787078477876689003422509099353805015177703670715380710894892460637136582066351659813",
-      "rsa_exponent": "65537",
-      "servertype": "1",
-      "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
-      "server_extensions": "OpenRSC"
-    }
-  ]
-}
+[
+  {
+    "name": "RSC Preservation",
+    "url": "game.openrsc.com",
+    "port": "43596",
+    "rsa_pub_key": "7112866275597968156550007489163685737528267584779959617759901583041864787078477876689003422509099353805015177703670715380710894892460637136582066351659813",
+    "rsa_exponent": "65537",
+    "servertype": "1",
+    "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
+    "server_extensions": "OpenRSC",
+    "extension_type": "preservation1"
+  },
+  {
+    "name": "RSC Preservation 02",
+    "url": "game.openrsc.com",
+    "port": "43597",
+    "rsa_pub_key": "7112866275597968156550007489163685737528267584779959617759901583041864787078477876689003422509099353805015177703670715380710894892460637136582066351659813",
+    "rsa_exponent": "65537",
+    "servertype": "1",
+    "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
+    "server_extensions": "OpenRSC",
+    "extension_type": "preservation2"
+  }
+]
