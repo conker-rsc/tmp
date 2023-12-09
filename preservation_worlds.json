@@ -7,7 +7,7 @@
     "rsa_exponent": "65537",
     "servertype": "1",
     "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
-    "server_extensions": "OpenRSC",
+    "server_extension": "OpenRSC",
     "extension_type": "preservation1"
   },
   {
@@ -18,7 +18,7 @@
     "rsa_exponent": "65537",
     "servertype": "1",
     "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
-    "server_extensions": "OpenRSC",
+    "server_extension": "OpenRSC",
     "extension_type": "preservation2"
   }
 ]
