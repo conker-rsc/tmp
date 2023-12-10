@@ -8,7 +8,7 @@
     "servertype": "1",
     "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
     "server_extension": "OpenRSC",
-    "extension_type": "preservation1"
+    "extension_world": "preservation1"
   },
   {
     "name": "RSC Preservation 02",
@@ -19,6 +19,6 @@
     "servertype": "1",
     "hiscores_url": "https://rsc.vet/player/preservation/%USERNAME%",
     "server_extension": "OpenRSC",
-    "extension_type": "preservation2"
+    "extension_world": "preservation2"
   }
 ]

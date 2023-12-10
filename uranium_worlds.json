@@ -8,6 +8,6 @@
     "servertype": "1",
     "hiscores_url": "https://rsc.vet/player/uranium/%USERNAME%",
     "server_extension": "OpenRSC",
-    "extension_type": "uranium1"
+    "extension_world": "uranium1"
   }
 ]
